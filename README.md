@@ -14,8 +14,8 @@
             
 ---
   
-<a href="https://github.com/Digao-Onofri/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Digao-Onofri&show_icons=true&include_all_commits=true&theme=react&show_icons=true&locale=en" /></a> 
-<a href="https://github.com/Digao-Onofri/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digao-Onofri&layout=compact&theme=react&show_icons=true&locale=en" width="500"/></a>
+<a href="https://github.com/Digao-Onofri/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Digao-Onofri&show_icons=true&include_all_commits=true&theme=react&show_icons=true&locale=en" width="450" /></a> 
+<a href="https://github.com/Digao-Onofri/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digao-Onofri&layout=compact&theme=react&show_icons=true&locale=en" width="450" /></a>
 <p align="center"> 
 <a href="https://github.com/Digao-Onofri/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Digao-Onofri&theme=react&show_icons=true&locale=en" width="450" /></a>
 
