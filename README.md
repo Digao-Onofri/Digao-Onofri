@@ -19,6 +19,8 @@
             
 ---
 
-| <a href="https://github.com/Digao-Onofri/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Digao-Onofri&show_icons=true&include_all_commits=true&theme=react&show_icons=true&locale=en" /></a> | <img src="https://github-readme-streak-stats.herokuapp.com?user=Digao-Onofri&theme=dark&hide_border=true" width="400" /></a> | <a href="https://github.com/Digao-Onofri/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digao-Onofri&layout=compact&theme=react&show_icons=true&locale=en" /></a>
+<p align="center">   
+<a href="https://github.com/Digao-Onofri/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Digao-Onofri&show_icons=true&include_all_commits=true&theme=react&show_icons=true&locale=en" /></a> <img src="https://github-readme-streak-stats.herokuapp.com?user=Digao-Onofri&theme=dark&hide_border=true" width="500" /></a> <a href="https://github.com/Digao-Onofri/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digao-Onofri&layout=compact&theme=react&show_icons=true&locale=en" /></a>
+</p>
 
 
