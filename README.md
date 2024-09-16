@@ -13,7 +13,6 @@
          <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </div><br/>
 
-| <a href="https://github.com/Digao-Onofri/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Digao-Onofri&show_icons=true&include_all_commits=true&theme=react&show_icons=true&locale=en" /></a> | <a href="https://github.com/Digao-Onofri/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digao-Onofri&layout=compact&theme=react&show_icons=true&locale=en" /></a> | 
-   
+| <a href="https://github.com/Digao-Onofri/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Digao-Onofri&show_icons=true&include_all_commits=true&theme=react&show_icons=true&locale=en" /></a> | <a href="https://github.com/Digao-Onofri/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digao-Onofri&layout=compact&theme=react&show_icons=true&locale=en" /></a> |  
 
 
