@@ -1,7 +1,7 @@
 # Hello! My name is Rodrigo Onofri
 - 🎓 I’m currently studying Computer Information Systems at Federal University of Itajuba (UNIFEI) 
 ### My social medias 📞:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Rodrigo-Paiva-Onofri/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RodrigoOnofri) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Rodrigo-Onofri/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RodrigoOnofri) 
 
 ---
 ### Tecnologies 💻
