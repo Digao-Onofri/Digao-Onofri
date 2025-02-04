@@ -4,7 +4,7 @@
         <h5> - 🎓 I’m currently studying Computer Information Systems at Federal University of Itajuba (UNIFEI) </h5>
         <div>
             <h1>More informations 📞:</h1>
-            <a href="https://www.linkedin.com/in/Rodrigo-Onofri"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" width="80" height="50"/></a>
+            <a href="https://www.linkedin.com/in/Rodrigo-Onofri"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" width="100" height="50"/></a>
             <a href="https://www.youtube.com/@RodrigoOnofri"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="linkedin" width="80" height="50"/></a>
         </div>
         <div>
