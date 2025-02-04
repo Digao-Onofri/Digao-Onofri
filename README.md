@@ -1,5 +1,12 @@
 <html>
     <body>
+        <h1>Hello! My name is Rodrigo Onofri</h1>
+        <h1> - 🎓 I’m currently studying Computer Information Systems at Federal University of Itajuba (UNIFEI) </h1>
+        <div>
+            <h1>More informations 📞:</h1>
+            <a href="https://www.linkedin.com/in/Rodrigo-Onofri"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" width="40" height="40"/></a>
+            <a href="https://www.youtube.com/@RodrigoOnofri"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="linkedin" width="40" height="40"/></a>
+        </div>
         <div>
             <label>
             <h1> Tecnologies 💻 </h1>
@@ -10,6 +17,7 @@
             </label>
         </div>
         <div>
+            <h1> Stats </h1>
             <p align="center"> 
                 <a href="https://github.com/Digao-Onofri/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Digao-Onofri&show_icons=true&include_all_commits=true&theme=react&show_icons=true&locale=en" width="450" /></a> 
                 <a href="https://github.com/Digao-Onofri/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digao-Onofri&layout=compact&theme=react&show_icons=true&locale=en" width="380" /></a>
