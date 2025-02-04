@@ -6,7 +6,7 @@
 ---
 ### Tecnologies 💻
 
-<div >
+<div>
    <label>
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <a>
       <a href="https://www.sqlite.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="mysql" width="40" height="40"/> <a>
