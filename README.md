@@ -1,7 +1,7 @@
 <html>
     <body>
         <h1>Hello! My name is Rodrigo Onofri</h1>
-        <h6> - 🎓 I’m currently studying Computer Information Systems at Federal University of Itajuba (UNIFEI) </h6>
+        <h5> - 🎓 I’m currently studying Computer Information Systems at Federal University of Itajuba (UNIFEI) </h5>
         <div>
             <h1>More informations 📞:</h1>
             <a href="https://www.linkedin.com/in/Rodrigo-Onofri"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" width="40" height="40"/></a>
