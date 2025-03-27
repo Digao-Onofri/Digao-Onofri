@@ -1,6 +1,6 @@
 <html>
     <body>
-        <h1>Hello! My name is Rodrigo Onofri</h1>
+        <h1>Welcome to my profile!</h1>
         <p> - 🎓 I’m currently studying Computer Information Systems at Federal University of Itajuba (UNIFEI) </p>
         <div>
             <h2> More Informations 📞: </h2>
