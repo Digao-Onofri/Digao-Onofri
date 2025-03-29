@@ -5,7 +5,7 @@
         <div>
             <h2> More Informations 📞: </h2>
             <a  href="https://www.linkedin.com/in/Rodrigo-Onofri" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" width="100" height="50"/></a>
-            <a  href="https://www.youtube.com/@RodrigoOnofri" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="linkedin" width="100" height="50"/></a>
+            <a  href="https://www.youtube.com/@RodrigoOnofri" target="blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="linkedin" width="100" height="50"/></a>
         </div>
         <div>
             <label>
