@@ -37,6 +37,7 @@
         </main>
         <!-- Footer -->
         <footer>
+            <hr>
             <p align="center">Projected by Rodrigo Onofri</p>
         </footer>
     </body>
