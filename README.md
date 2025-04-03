@@ -13,7 +13,6 @@
                 <h2> More Informations 📞: </h2>
                 <a  href="https://www.linkedin.com/in/Rodrigo-Onofri" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" width="100" height="50"/></a>
                 <a  href="https://www.youtube.com/@RodrigoOnofri" target="blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="linkedin" width="100" height="50"/></a>
-                <hr>
             </section>
             <!-- Tecnologies -->
             <section>
@@ -27,7 +26,6 @@
                 <a  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/><a>              
                 <a  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/><a>    
                 <a  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/><a>   
-                <hr>
             </section>
             <!-- Github Stats -->
             <section>
