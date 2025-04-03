@@ -1,7 +1,7 @@
 <html>
     <body>
         <!-- Header -->
-        <header padding="1%">
+        <header padding="10%">
             <h1>Welcome to my profile!</h1>
             <p> - 🎓 I’m currently studying Computer Information Systems at Federal University of Itajuba (UNIFEI) </p> 
             <hr>
@@ -38,7 +38,7 @@
             </section>
         </main>
         <!-- Footer -->
-        <footer padding="1%">
+        <footer padding="10%">
             <p align="center">Projected by Rodrigo Onofri</p>
         </footer>
     </body>
