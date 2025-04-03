@@ -3,7 +3,6 @@
         <!-- Header -->
         <header>
             <h1>Welcome to my profile!</h1>
-            <hr>
             <p> - 🎓 I’m currently studying Computer Information Systems at Federal University of Itajuba (UNIFEI) </p> 
             <hr>
         </header>
