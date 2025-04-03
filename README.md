@@ -4,6 +4,7 @@
         <header>
             <h1>Welcome to my profile!</h1>
             <p> - 🎓 I’m currently studying Computer Information Systems at Federal University of Itajuba (UNIFEI) </p> 
+            <hr>
         </header>
         <!-- Main -->
         <main>
@@ -12,6 +13,7 @@
                 <h2> More Informations 📞: </h2>
                 <a  href="https://www.linkedin.com/in/Rodrigo-Onofri" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" width="100" height="50"/></a>
                 <a  href="https://www.youtube.com/@RodrigoOnofri" target="blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="linkedin" width="100" height="50"/></a>
+                <hr>
             </section>
             <!-- Tecnologies -->
             <section>
@@ -25,6 +27,7 @@
                 <a  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/><a>              
                 <a  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/><a>    
                 <a  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/><a>   
+                <hr>
             </section>
             <!-- Github Stats -->
             <section>
@@ -33,6 +36,7 @@
                 src="https://github-readme-stats.vercel.app/api?username=Digao-Onofri&show_icons=true&include_all_commits=true&theme=react&show_icons=true&locale=en" width="450"/></a> 
                 <a href="https://github.com/Digao-Onofri/github-readme-stats"><img align="center" 
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digao-Onofri&layout=compact&theme=react&show_icons=true&locale=en" width="450" /></a>
+                <hr>
             </section>
         </main>
         <!-- Footer -->
