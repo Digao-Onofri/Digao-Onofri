@@ -23,8 +23,8 @@
 
 ## GitHub Stats
 
-[![Rodrigo’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Digao-Onofri&show_icons=true&include_all_commits=true&theme=react&locale=en)](https://github.com/Digao-Onofri/github-readme-stats)
+![Rodrigo’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Digao-Onofri&show_icons=true&include_all_commits=true&theme=react&locale=en)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Digao-Onofri&layout=compact&theme=react&locale=en)](https://github.com/Digao-Onofri/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Digao-Onofri&layout=compact&theme=react&locale=en)
 
 -----
