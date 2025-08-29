@@ -1,7 +1,6 @@
 # Welcome to my profile\!
 
   - 🎓 I’m currently studying Computer Information Systems at Federal University of Itajuba (UNIFEI)
-  - 
 
 
 ## More Informations 📞:
