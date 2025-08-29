@@ -1,8 +1,8 @@
 # Welcome to my profile\!
 
   - 🎓 I’m currently studying Computer Information Systems at Federal University of Itajuba (UNIFEI)
+  - 
 
------
 
 ## More Informations 📞:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Rodrigo-Onofri)
@@ -19,12 +19,7 @@
 ![CSS3](https://img.icons8.com/color/40/css3.png)
 ![Nextjs](https://img.icons8.com/color/40/nextjs.png)
 
----
 
 ## GitHub Stats
 
-![Rodrigo’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Digao-Onofri&show_icons=true&include_all_commits=true&theme=react&locale=en)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Digao-Onofri&layout=compact&theme=react&locale=en)
-
------
+![Rodrigo’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Digao-Onofri&show_icons=true&include_all_commits=true&theme=react&locale=en)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Digao-Onofri&layout=compact&theme=react&locale=en)
